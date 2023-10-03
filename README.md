@@ -1,4 +1,4 @@
-- 👋 Hi, I’m David Ayankoya, a Front-End Web Developer skilled in building amazing products using front-end technologies such as HTML, CSS, React, Typescript, Next, Redux .etc.
+- 👋 Hi, I’m David Ayankoya, a Frontend Engineer skilled in building amazing products using front-end technologies such as React, Typescript, Next, Redux .etc.
 - 👀 I’m interested in Web Development, Mobile Development, Game Development...
 - 🌱 I’m currently learning Automated Testing and Test Driven Development (TDD),
 - 💞️ I’m looking to collaborate on any interesting products and ideas.
